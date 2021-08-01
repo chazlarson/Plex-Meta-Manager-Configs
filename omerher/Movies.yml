@@ -45,31 +45,31 @@ collections:
     collection_mode: default
   1970s:
     plex_search:
-      year: 1970-1979
+      decade: 1970
     summary: A collection of movies released in the 1970s
     sort_title: '*004'
     collection_mode: default
   1980s:
     plex_search:
-      year: 1980-1999
+      decade: 1980
     summary: A collection of movies released in the 1980s
     sort_title: '*005'
     collection_mode: default
   1990s:
     plex_search:
-      year: 1990-1999
+      decade: 1990
     summary: A collection of movies released in the 1990s
     sort_title: '*006'
     collection_mode: default
   2000s:
     plex_search:
-      year: 2000-2009
+      decade: 2000
     summary: A collection of movies released in the 2000s
     sort_title: '*007'
     collection_mode: default
   2010s:
     plex_search:
-      year: 2010-2019
+      decade: 2010
     summary: A collection of movies released in the 2010s
     sort_title: '*008'
     collection_mode: default
