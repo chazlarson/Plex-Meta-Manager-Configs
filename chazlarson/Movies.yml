@@ -1,0 +1,211 @@
+##########################################################################
+##########################################################################
+##                _               _                                     ##
+##            ___| |__   __ _ ___| | __ _ _ __ ___  ___  _ __           ##
+##           / __| '_ \ / _` |_  / |/ _` | '__/ __|/ _ \| '_ \          ##
+##          | (__| | | | (_| |/ /| | (_| | |  \__ \ (_) | | | |         ##
+##           \___|_| |_|\__,_/___|_|\__,_|_|  |___/\___/|_| |_|         ##
+##                                                                      ##
+##           ..Movie Library Collections YML Confg For..                ##
+##         https://github.com/meisnate12/Plex-Meta-Manager              ##
+##########################################################################
+##                         github.com/chazlarson                        ##
+##########################################################################
+##                   -=My Trakt.tv Collection Lists=-                   ##
+##             _-=https://trakt.tv/users/chazlarson/lists=-_            ##
+##########################################################################
+##                    Posters created at Coverlabs.io                   ##
+##                    This header design inspired by                    ##
+##                         github.com/ohmybahgosh                       ##
+##########################################################################
+
+collections:
+
+Ten Awesome Recent Movies You Probably Missed:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/10-awesome-recent-movies-you-probably-missed
+    smart_label: year.desc
+    sync_mode: sync
+    summary: WhatCulture Ten Awesome Recent Movies You Probably Missed
+
+46 Horror Movies That Pass the Bechdel Test:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/46-horror-movies-that-pass-the-bechdel-test
+    smart_label: year.desc
+    sync_mode: sync
+    summary: The Bechdel test is comprised of a simple set of guidelines. For a movie to pass: (1) It has to have at least two [named] women in it, (2) who talk to each other (3) about something besides a man.  Though far from perfect as a litmus test for feminism, it sets a (very, VERY) low bar for gender inclusivity and is a loose way of measuring the balance of female characters and their agency. Though women are more often victims than aggressors in these stories, they're also more frequently the survivors. The role's not called the Final Girl for nothing. These movies may not possess an ideal feminist ideology, but they all pass the test, and that's something.
+    url_poster: https://i.ibb.co/61fKwyR/bechdel-horror.jpg
+
+Bloody Disgusting - 10 Mind-bending Time-travel Horror Movies:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/bloody-disgusting-10-mind-bending-time-travel-horror-movies
+    smart_label: year.desc
+    sync_mode: sync
+    summary: Bloody Disgusting - 10 Mind-bending Time-travel Horror Movies.
+    url_poster: https://i.ibb.co/znWN6rp/bloody-disgusting-10-Mind-Bending-Time-Travel-Horror-Movies.jpg
+
+EW Best Horror of 2021 So Far:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/ew-best-horror-of-2021-so-far
+    smart_label: year.desc
+    sync_mode: sync
+    summary: Entertainment Weekly's Best Horror of 2021 So Far
+    url_poster: https://i.ibb.co/jJXPdTL/ew-2021-horror.jpg
+
+Looper Best Horror of 2021:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-best-horror-of-2021
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-horror-2021
+    summary: Looper's Best Horror of 2021
+    url_poster: https://i.ibb.co/y0Ng3HN/looper-2021-horror.jpg
+
+Looper Best Horror of 2020:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-11-best-horror-of-2020
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-horror-2020
+    summary: Looper's Best Horror of 2020
+    url_poster: https://i.ibb.co/5K3422H/looper-2020-horror.jpg
+
+Looper Best Horror of 2019:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-best-horror-movies-of-2019
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-horror-2019
+    summary: Looper's Best Horror of 2019
+    url_poster: https://i.ibb.co/mSWr6KZ/looper-2019-horror.jpg
+
+Looper Best Horror of 2018:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-best-horror-movies-of-2018
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-horror-2018
+    summary: Looper's Best Horror of 2018
+    url_poster: https://i.ibb.co/WpqC2CT/looper-2018-horror.jpg
+
+Looper 16 Best Folk Horror:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-16-best-folk-horror-movies-of-all-time
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-horror-folk
+    summary: Looper's 16 Best Folk Horror
+    url_poster: https://i.ibb.co/zs0FCDL/looper-folk-horror.jpg
+
+Looper 16 Best Folk Horror:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-16-best-folk-horror-movies-of-all-time
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-horror-folk
+    summary: Looper's 16 Best Folk Horror
+    url_poster: https://i.ibb.co/zs0FCDL/looper-folk-horror.jpg
+
+Looper Awesome 2019 Movies No One Talks About:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-awesome-movies-from-2019-that-sadly-no-one-s-talking-about
+    smart_label: year.desc
+    sync_mode: sync
+    summary: Looper's Awesome Movies from 2019 that Sadly No One is Talking About
+    url_poster: https://i.ibb.co/zs0FCDL/looper-folk-horror.jpg
+
+Looper Best Horror Movie Endings:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-best-horror-movie-endings-of-the-20th-century
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-horror-endings
+    summary: Looper's Best Horror Movie Endings of the 20th Century
+    url_poster: https://i.ibb.co/qrxLGg6/looper-horror-endings.jpg
+
+Looper Best Movies of 2020:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-best-movies-of-2020
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-best-2929
+    summary: Looper's Best Movies of 2020
+    url_poster: https://i.ibb.co/tJx2bXy/looper-2020-best.jpg
+
+Looper Best SciFi Movies of 2020:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-best-sci-fi-movies-of-2020
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-scifi-2020
+    summary: Looper's Best SciFi Movies of 2020
+    url_poster: https://i.ibb.co/t27NJb2/looper-2020-best-scifi.jpg
+
+Looper Greatest Horror Of All Time:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-greatest-horror-of-all-time
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-horror-endings
+    summary: Looper's Best SciFi Movies of 2020
+    url_poster: https://i.ibb.co/RQNXs0W/looper-greatest-horror-all-time.jpg
+
+Looper Hidden Horror Gems on Netflix:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-hidden-horror-gems-on-netflix-you-need-to-watch
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-horror-gems
+    summary: Looper's Hidden Horror Gems on Netflix You Need to Watch
+    url_poster: https://i.ibb.co/R9zYdZr/looper-horror-hidden-netflix.jpg
+
+Looper Hidden Horror Gems on Netflix You Need To Watch at Least Once:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-horror-movie-hidden-gems-on-netflix-you-need-to-watch-at-least-once
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-horror-gems
+    summary: Looper's Hidden Horror Gems on Netflix You Need To Watch at Least Once
+    url_poster: https://i.ibb.co/QvpT5tj/looper-horror-at-least-once.jpg
+
+Looper Worst of 2020 So Far:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/looper-worst-movies-of-2020-so-far-35c3e317-421b-4c70-91c4-96789bf9ef83
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-worst-2020
+    summary: Looper's Worst Movies of 2020 So Far
+    url_poster: https://i.ibb.co/JF70XJ1/looper-2020-worst.jpg
+
+Looper 49 Most Anticipated Movies of 2020:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/the-49-most-anticipated-movies-of-2020
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: looper-anticipated-2020
+    summary: Looper's 49 Most Anticipated Movies of 2020; there is a surprising overlap with the worst of 2020.
+    url_poster: https://i.ibb.co/9wqCLVr/looper-2020-anticipated.jpg
+
+Thrillist 40 Best Horror Movies of 2021 So Far, Ranked:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/thrillist-the-40-best-horror-movies-of-2021-so-far-ranked
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: Thrillist-horror-2021
+    summary: Thrillist's 40 Best Horror Movies of 2021 So Far, Ranked; updated 08-21-2021
+    url_poster: https://i.ibb.co/gVgjsKp/thrillist-2021-horror.jpg
+
+TimeOut 100 Best Comedy Movies:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/time-out-100-best-comedy-movies
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: timeout-comedy
+    summary: TimeOut London's 100 Best Comedy Movies
+    url_poster: https://i.ibb.co/sH8dnk5/timeout-100-best-comedy.jpg
+
+TimeOut 100 Best Horror Movies:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/timeout-100-best-horror-movies
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: timeout-horror
+    summary: TimeOut London's 100 Best Horror Movies
+    url_poster: https://i.ibb.co/QPQnkMW/timeout-100-best-horror.jpg
+
+WatchMojo Top 20 Horror Movies That Were Better Then We Expected:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/watchmojo-top-20-horror-movies-that-were-better-than-we-expected
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: watchmojo-horror-better
+    summary: WatchMojo's Top 20 Horror Movies That Were Better Then We Expected
+    url_poster: https://i.ibb.co/LvFwFr6/watchmojo-top-20-better.jpg
+
+WatchMojo Top 20 Scariest Horror Movies You Probably Haven't Seen:
+    trakt_list: https://trakt.tv/users/chazlarson/lists/watchmojo-top-20-scariest-horror-movies-you-probably-haven-t-seen
+    smart_label: year.desc
+    sync_mode: sync
+    sort_title: watchmojo-horror-scariest
+    summary: WatchMojo's Top 20 Scariest Horror Movies You Probably Haven't Seen
+    url_poster: https://i.ibb.co/VMzkBqZ/watchmojo-top-20-scariest.jpg
+
+
+
